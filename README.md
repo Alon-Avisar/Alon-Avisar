@@ -4,7 +4,7 @@
 
 
 Full-Stack / Frontend Web Developer with knowledge and experience writing single-page-applications Using the latest WEB technologies such as Node.js, Vue.js, Vuex, React.js and Angular.
-A team player, hard worker, focusing on problem solving and detailed orientation, self-learner , organized , determined and adapt quickly to new environments.
+
 
 <h3 align="center">I'm looking for my next challenge as Frontend / Full stack developer positions.</h3>
 
