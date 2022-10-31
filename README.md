@@ -6,13 +6,10 @@
 Full-Stack / Frontend Web Developer with knowledge and experience writing single-page-applications Using the latest WEB technologies such as Node.js, Vue.js, Vuex, React.js and Angular.
 A team player, hard worker, focusing on problem solving and detailed orientation, self-learner , organized , determined and adapt quickly to new environments.
 
-<h3 align="center">At the moment I'm software developer student at Coding academy </h3>
+<h3 align="center">At the moment I'm software developer student at Coding academy</h3>
 
 
-• 🧲 A people's person, tech lover,determined and adapt quickly to new environments
-
-
-• 🌴 Proficient in building single-page apps (At the moment I work as an **instructor in Coding Academy**). 
+• 🧲 A people's person, tech lover,determined and adapt quickly to new environments.
 
 • 🎯 High self-disciplined with a constant drive for professional excellence.
 
@@ -20,7 +17,7 @@ A team player, hard worker, focusing on problem solving and detailed orientation
 
 • 📫 You can reach me at **1alonavisar@gmail.com**
 
-• 💙 Fun fact: I love training , ping-pong , and drawing 🎨
+• 💙 Fun fact: I love training , basketball, surfing and ping-pong 🏓
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,7 +29,8 @@ A team player, hard worker, focusing on problem solving and detailed orientation
 
 
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-• 🎯 High self-disciplined with a constant drive for professional excellence.
+ <summary><h3>👨‍💻 My Coding Journey</h3></summary>
+ wowwww
+
 
 
