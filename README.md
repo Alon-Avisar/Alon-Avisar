@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Hi! i'm Alon Avisar </h1>
+<h1 align="center"> Hi! i'm Alon Avisar 👋 </h1>
 
 
 Full-Stack / Frontend Web Developer with knowledge and experience writing single-page-applications Using the latest WEB technologies such as Node.js, Vue.js, Vuex, React.js and Angular.
