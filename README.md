@@ -6,12 +6,12 @@
 Full-Stack / Frontend Web Developer with knowledge and experience writing single-page-applications Using the latest WEB technologies such as Node.js, Vue.js, Vuex, React.js and Angular.
 A team player, hard worker, focusing on problem solving and detailed orientation, self-learner , organized , determined and adapt quickly to new environments.
 
-<h3 align="center">At the moment I'm software developer student at Coding academy</h3>
+<h3 align="center">I'm looking for my next challenge as Frontend / Full stack developer positions.</h3>
 
 
 • 🧲 A people's person, tech lover,determined and adapt quickly to new environments.
 
-• 🎯 High self-disciplined with a constant drive for professional excellence.
+• 👨‍💻 High self-disciplined with a constant drive for professional excellence.
 
 • 🏆 I recently built a clone of airbnb , **check it out**, it has everything! [Airbna](https://airbna.onrender.com/#/)
 
@@ -29,8 +29,9 @@ A team player, hard worker, focusing on problem solving and detailed orientation
 
 
 <details>
- <summary><h3>👨‍💻 My Coding Journey</h3></summary>
- wowwww
+ <summary><h3> I’M PASSIONATE ABOUT CODING.</h3></summary>
+ 
+ In programming if you can consistently create a logic that interacts with the other parts of the computer and other applications you can make it happen. All you need to do after you thought it up is actually write it and presto a new thing is created into the world. That really feels like being a wizard.🧙‍♂️
 
 
 
